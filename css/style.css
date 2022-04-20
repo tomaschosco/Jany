@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(238, 238, 218);
+    height: 50px;
+}
+.header_nav{
+    display: flex;
+    justify-content: space-around;
+    width: 150px;
+}
+.header_logo > a{
+    letter-spacing: 2px;
+    color:rgb(0, 0, 0)
+}
+ul > li {
+    list-style: none;
+}
+i {
+    color: rgb(0, 0, 0);
+    padding: 0 5px;
+}
