@@ -1,0 +1,1 @@
+terminar el contenido, hacer que aparezca el precio al pasar el mouse y arreglar los tamaños.
